@@ -76,7 +76,7 @@ npm start
 
 
 ## Project Structure
-
+'''
 text-analyzer/
 │
 ├── public/
@@ -91,7 +91,7 @@ text-analyzer/
 │
 ├── package.json
 └── README.md
-
+'''
 ## Dependencies
 
 * React
