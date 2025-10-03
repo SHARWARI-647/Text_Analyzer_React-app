@@ -35,7 +35,7 @@ A simple **Text Analyzer** built with **React** that allows users to perform var
 
 ## Screenshots
 
-<img src="Screenshots\Screenshot (26).png" width="800" height="800">
+<img src="src/Screenshot (26).png" width="800" height="800">
 
 ## Installation
 
